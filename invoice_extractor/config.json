@@ -1,0 +1,43 @@
+{
+    "reports" : {
+        "additional_cost" : {
+            "apply_tracking_lookup" : true,
+            "clean_order_number" : true,
+            "currency" : "PLN",
+            "dir" : "./data/invoices_detail/"
+        },
+        "clearance_details" : {
+            "apply_tracking_lookup" : true,
+            "clean_order_number" : true,
+            "currency" : "PLN",
+            "dir" : "./data/invoices_detail/"
+        },
+        "doterra_dg" : {
+            "apply_tracking_lookup" : true,
+            "clean_order_number" : true,
+            "currency" : "PLN",
+            "dir" : "./data/invoices_detail/"
+        },
+        "doterra_dhl_express" : {
+            "apply_tracking_lookup" : true,
+            "clean_order_number" : true,
+            "currency" : "PLN",
+            "dir" : "./data/invoices_detail/"
+        },
+        "doterra_metapack" : {
+            "apply_tracking_lookup" : true,
+            "clean_order_number" : true,
+            "currency" : "PLN",
+            "dir" : "./data/invoices_detail/"
+        },
+        "invoices_detail" : {
+            "apply_tracking_lookup" : true,
+            "clean_order_number" : true,
+            "currency" : "EUR",
+            "dir" : "./data/invoices_detail/"
+        }
+    },
+    "PLN-EUR" : 0.23,
+    "EUR-PLN" : 4.35,
+    "target_currency" : "EUR"
+}
